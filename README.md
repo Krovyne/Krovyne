@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Vee!
 
 I'm new to GitHub and excited to start my journey in coding, learning, and building cool projects!  
 I love games 🎮 and enjoy exploring how technology and creativity come together.
