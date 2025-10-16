@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
 
-<!--
-**Krovyne/Krovyne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm new to GitHub and excited to start my journey in coding, learning, and building cool projects!  
+I love games 🎮 and enjoy exploring how technology and creativity come together.
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- 🚀 Currently learning and exploring programming, GitHub, and open source.  
+- 🤖 Interested in **AI Engineering**, **Game Development**, and **Full Stack Web Development**.  
+- 💡 Always curious and eager to improve my skills step by step.  
+- 🎯 Goal: Become a skilled **AI Engineer** and **Game Developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Fun Fact
+I can spend hours playing or thinking about how games are made — and now I’m learning to make them myself!
