@@ -9,5 +9,3 @@ I love games 🎮 and enjoy exploring how technology and creativity come togethe
 - 💡 Always curious and eager to improve my skills step by step.  
 - 🎯 Goal: Become a skilled **AI Engineer** and **Game Developer**.
 
-## ⚡ Fun Fact
-I can spend hours playing or thinking about how games are made — and now I’m learning to make them myself!
